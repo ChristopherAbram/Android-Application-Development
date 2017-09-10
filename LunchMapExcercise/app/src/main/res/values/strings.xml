@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LunchMapExcercise</string>
+    <string name="description">Give a location:</string>
+    <string name="lat">Latitude</string>
+    <string name="lng">Longitude</string>
+    <string name="show">Show on map</string>
+</resources>
