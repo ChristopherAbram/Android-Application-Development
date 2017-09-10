@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BasicUIControls</string>
+    <string name="food1">Chicken</string>
+    <string name="food2">Fish</string>
+    <string name="food3">Bread</string>
+    <string name="food4">Lollipop</string>
+    <string name="food5">Steak</string>
+    <string name="food6">Beef</string>
+</resources>
