@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MenuNotificationExcercise</string>
+
+    <string name="go_to">Go to</string>
+    <string name="show">Show in dialog</string>
+    <string name="dummy">Lorem ipsum dolor sit amet enim. Etiam ullamcorper. Suspendisse a pellentesque dui, non felis. Maecenas malesuada elit lectus felis, malesuada ultricies. Curabitur et ligula. Ut molestie a, ultricies porta urna. Vestibulum commodo volutpat a, convallis ac, laoreet enim. Phasellus fermentum in, dolor. Pellentesque facilisis. Nulla imperdiet sit amet magna. Vestibulum dapibus, mauris nec malesuada fames ac turpis velit, rhoncus eu, luctus et interdum adipiscing wisi. Aliquam erat ac ipsum. Integer aliquam purus. Quisque lorem tortor fringilla sed, vestibulum id, eleifend justo vel bibendum sapien massa ac turpis faucibus orci luctus non, consectetuer lobortis quis, varius in, purus. Integer ultrices posuere cubilia Curae, Nulla ipsum dolor lacus, suscipit adipiscing.</string>
+    <string name="google_search">Google search</string>
+    <string name="exit">Exit</string>
+    <string name="exit_message">Are you sure you want to exit this activity?</string>
+    <string name="dialog_yes">Exit!</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="send_notification">Send notification!</string>
+    <string name="do_sth">Do something!</string>
+</resources>
